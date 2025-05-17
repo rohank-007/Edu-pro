@@ -267,6 +267,9 @@ img {
   .hamb-button {
     display: none;
   }
+  .bottom-last {
+    display: none;
+  }
 }
 @media (max-width: 350px) {
   .bottom {
